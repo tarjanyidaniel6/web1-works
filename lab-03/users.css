@@ -1,0 +1,15 @@
+.no.margin{
+    margin: 0;
+}
+.font-big{
+    font-size: 1.5em;
+}
+.bg-light{
+    background-color: azure;
+}
+.color-primary{
+    color: rgb(17, 17, 139);
+}
+.inline{
+    display: inline;
+}
